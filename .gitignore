@@ -1,2 +1,5 @@
 # python .pyc file
 *.pyc
+
+# vim cached file
+*.swp
